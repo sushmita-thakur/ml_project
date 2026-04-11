@@ -6,4 +6,6 @@ catboost
 xgboost
 Flask
 dill
+scikit-learn
+gunicorn
 # -e.
